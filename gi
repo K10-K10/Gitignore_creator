@@ -1,4 +1,4 @@
-#!/bin/zsh
+# !/bin/zsh
 
 site_path="https://www.toptal.com/developers/gitignore/api/"
 coma=","
